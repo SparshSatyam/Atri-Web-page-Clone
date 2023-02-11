@@ -1,0 +1,17 @@
+{
+  "TextBox": 132,
+  "Image": 75,
+  "Menu": 1,
+  "Upload": 2,
+  "Breadcrumb": 1,
+  "Div": 3,
+  "Button": 21,
+  "Input": 8,
+  "Overlay": 10,
+  "Cascader": 3,
+  "Flex": 146,
+  "Icon": 5,
+  "Link": 9,
+  "Modal": 1,
+  "Slider": 1
+}
